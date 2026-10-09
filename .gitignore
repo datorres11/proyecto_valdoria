@@ -1,4 +1,4 @@
-# Godot 4.2+ specific ignores
+﻿# Godot 4.2+ specific ignores
 ~*.dll
 
 # Godot 4+ specific ignores
@@ -23,3 +23,6 @@ mono_crash.*.json
 *.exe
 # Uncomment if your project does not version PCK files as runtime dependencies.
 # *.pck
+
+# Godot generated platform folders
+/android/
